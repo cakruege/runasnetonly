@@ -3,7 +3,7 @@ C# implementation of "runas /netonly" using CreateProcessWithLogonW
 
 with asynchronus stdinput and threaded stdout & stderror redirection
 
-Main source from:
+Main idea (most of the source) from:
 
 https://social.msdn.microsoft.com/Forums/vstudio/en-US/819098f1-db65-4ebb-a79a-c4cce64118a6/interact-with-a-hidden-process-ffmpeg?forum=netfxbcl
 
