@@ -1,9 +1,12 @@
 # runasnetonly
-C# implementation - runas /netonly 
+C# implementation of "runas /netonly"
+
 with asynchronus stdinput and threaded stdout & stderror redirection
 
 Main source from:
+
 https://social.msdn.microsoft.com/Forums/vstudio/en-US/819098f1-db65-4ebb-a79a-c4cce64118a6/interact-with-a-hidden-process-ffmpeg?forum=netfxbcl
+
 Cudos to: Eric Yang [MSFT] - https://social.msdn.microsoft.com/profile/eryang/?ws=usercard-mini
 
 Other links regarding the topic:
