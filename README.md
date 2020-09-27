@@ -7,7 +7,7 @@ Main idea (most of the source) from:
 
 https://social.msdn.microsoft.com/Forums/vstudio/en-US/819098f1-db65-4ebb-a79a-c4cce64118a6/interact-with-a-hidden-process-ffmpeg?forum=netfxbcl
 
-Cudos to: Eric Yang [MSFT] - https://social.msdn.microsoft.com/profile/eryang/?ws=usercard-mini
+Kudos to: Eric Yang [MSFT] - https://social.msdn.microsoft.com/profile/eryang/?ws=usercard-mini
 
 Other links regarding the topic:
 * https://stackoverflow.com/questions/1973376/how-to-get-standard-output-from-createprocesswithlogonw
