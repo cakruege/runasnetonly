@@ -1,5 +1,5 @@
 # runasnetonly
-C# implementation of "runas /netonly"
+C# implementation of "runas /netonly" using CreateProcessWithLogonW
 
 with asynchronus stdinput and threaded stdout & stderror redirection
 
