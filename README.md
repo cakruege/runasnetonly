@@ -29,4 +29,6 @@ Other links regarding the topic:
 
 * https://stackoverflow.com/questions/61068407/execute-cmd-exe-with-createprocesswithlogonw-without-a-new-console/61200260#61200260
 
+* https://github.com/microsoft/referencesource/blob/master/System/services/monitoring/system/diagnosticts/Process.cs
+
 In case that some of the links are unavaiable in future, all are saved to Webback Machine: http://web.archive.org/
